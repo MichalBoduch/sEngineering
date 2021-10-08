@@ -9,7 +9,7 @@ public class User : Person {
     public User() {
     }
 
-    
+    // variables
 
     public int UserID { get; set; }
 

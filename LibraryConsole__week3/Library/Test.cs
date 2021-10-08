@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibraryConsole__week3.Library
 {
+    // Szymon to Software Engineer
     public class Test
     {
         static void Main(string[] args)
